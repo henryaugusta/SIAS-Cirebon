@@ -9,11 +9,16 @@
 - [Progress Check List](#progress-checklist)
 
 ## Installation
-- [Download the latest release](https://github.com/itherdevs/SIAS/archive/master.zip).
-or clone the repo :
+clone the repo :
 ```bash
-git clone https://github.com/itherdevs/SIAS.git
+git clone https://github.com/henryaugusta/SIAS-Cirebon.git
 ```
+
+## Disclaimer 
+This app was left under development by the previous developer, and leave some amount of bug
+that i fixed by request of the project owner.
+Original Repo Link :  https://github.com/itherdevs/SIAS.git
+
 
 And don`t forget to install the package dependencies with command :
 ```bash
